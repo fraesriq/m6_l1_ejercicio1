@@ -1,0 +1,6 @@
+#Exclusión de archivos y carpetas
+
+node_modules/*.*
+!package-lock.json
+!package.json
+!index.js
